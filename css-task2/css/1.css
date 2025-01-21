@@ -1,0 +1,9 @@
+.p1{
+    text-decoration: overline green;
+}
+.p2{
+    text-decoration: overline line-through;
+}
+.p3{
+    text-decoration: overline underline blue;
+}

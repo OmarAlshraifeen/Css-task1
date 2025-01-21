@@ -1,0 +1,30 @@
+.p1{
+    background-color: orange;
+    overflow: visible ;
+    width: 450px; height: 50px;
+    border: 1px solid black;
+}
+.p2{
+    color: white; background-color: black;
+    overflow: hidden;
+    border: 1px solid black;
+    width: 450px; height: 100px;
+}
+.p3{
+    overflow: scroll; 
+    background-color: aqua;
+    border: 1px solid black;
+    width: 450px; height: 100px;
+}
+.p4{
+    overflow: auto;
+    background-color: blueviolet;
+    border: 1px solid black;
+    width: 450px; height: 100px;
+}
+.p5{
+    overflow-y: ;
+    background-color: green;
+    border: 1px solid black;
+    width: 450px; height: 100px;
+}
