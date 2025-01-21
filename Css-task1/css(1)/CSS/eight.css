@@ -1,0 +1,21 @@
+.container{
+    padding: 10px;
+    background-color: aquamarine;
+    margin-top: 50px;
+}
+
+.p1{
+    color: red;
+    background-color: white;
+    padding: 5px;
+}
+.p2{
+    color: white;
+    background-image:url(../image/aa.avif);
+    padding: 5px;
+}
+.p3{
+    color: white;
+    background-image:url(../image/aaaa.avif);
+    padding: 5px;
+}

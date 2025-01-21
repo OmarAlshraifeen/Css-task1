@@ -1,0 +1,6 @@
+body {
+    background-image: url("../image/aa.avif"), url("../image/a5.jpg");
+    background-repeat: repeat-x, repeat-y;
+    background-size: 200px 200px, 30% auto; 
+    background-position: top left, bottom left; 
+}
