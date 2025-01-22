@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    background-color: #87CEFA;
+    padding: 20px 0;
+  }
+  
+  .footer {
+    background-color: #FFB6C1;
+    height: 50px;
+  }
+  
+  .counter {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  .button-container {
+    margin: 20px 0;
+  }
+  
+  .restart-button {
+    background-color: #90EE90;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .restart-button:hover {
+    background-color: #76c776;
+  }
+  

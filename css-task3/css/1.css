@@ -1,0 +1,19 @@
+div {
+    padding: 10px;
+    margin: 10px 0;
+    width: 200px;
+    text-align: center;
+}
+
+.a{
+    border: 3px; 
+    border-style: solid;
+}
+.b{
+    border:3px;
+    border-style: double;
+}
+.c{
+    border:3px;
+    border-style: inset;
+}

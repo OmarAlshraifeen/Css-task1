@@ -1,0 +1,144 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+header {
+    background-color: #fff;
+    padding: 10px 0;
+    border-bottom: 2px solid #ccc;
+}
+
+.shop-name {
+    font-size: 36px;
+    color: red;
+    margin: 0;
+}
+
+.tagline {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #666;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.welcome-section {
+    background: url('https://via.placeholder.com/800x300') no-repeat center center/cover;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.welcome-banner {
+    margin-bottom: 20px;
+}
+
+.order-now {
+    background-color: yellow;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.feature-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.feature {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.feature img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.feature button {
+    background-color: yellow;
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.featured-products {
+    background-color: #fff;
+    padding: 20px 0;
+    margin: 20px 0;
+}
+
+.featured-products h2 {
+    color: red;
+    font-size: 24px;
+}
+
+.product-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.product {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.product img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product button {
+    background-color: yellow;
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #eee;
+    padding: 10px 0;
+    font-size: 14px;
+    color: #666;
+}
